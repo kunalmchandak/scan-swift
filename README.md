@@ -21,7 +21,7 @@ It uses a pre-trained OCR model with an embedded Tesseract engine, optimized for
 
 📦 PyPI: [edgeidx](https://pypi.org/project/edgeidx)
 
-GitHub: [https://github.com/kunalmchandak/edgeidx](https://github.com/kunalchandak/edgeidx)
+GitHub: [https://github.com/kunalmchandak/edgeidx](https://github.com/kunalmchandak/edgeidx)
 
 ---
 
