@@ -1,0 +1,2 @@
+C:/Users/kmchw/AndroidStudioProjects/scan_swift/android/app/.cxx/RelWithDebInfo/4155b6m2/x86/CMakeFiles/edit_cache.dir
+C:/Users/kmchw/AndroidStudioProjects/scan_swift/android/app/.cxx/RelWithDebInfo/4155b6m2/x86/CMakeFiles/rebuild_cache.dir

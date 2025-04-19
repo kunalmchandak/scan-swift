@@ -1,0 +1,2 @@
+C:/Users/kmchw/AndroidStudioProjects/scan_swift/android/app/.cxx/Debug/3x551s2n/x86/CMakeFiles/edit_cache.dir
+C:/Users/kmchw/AndroidStudioProjects/scan_swift/android/app/.cxx/Debug/3x551s2n/x86/CMakeFiles/rebuild_cache.dir
