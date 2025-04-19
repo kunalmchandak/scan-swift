@@ -6,10 +6,6 @@ Scan Swift is a Flutter-based mobile application that demonstrates the capabilit
 
 This app uses a mobile device's camera to capture an Aadhaar card image, processes the image using cropping and enhancement, and sends it to the `edgeidx` backend for information extraction. The app showcases real-time scanning, user guidance overlays, and a clean UI for displaying results.
 
-<p align="center">
-  <img src="screenshots/demo.png" alt="Scan Swift UI Preview" width="300"/>
-</p>
-
 ---
 
 ## 🔍 What is `edgeidx`?
