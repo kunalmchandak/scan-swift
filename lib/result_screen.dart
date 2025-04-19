@@ -51,7 +51,7 @@ class _ResultScreenState extends State<ResultScreen> {
     try {
       var request = http.MultipartRequest(
         'POST',
-        Uri.parse('http://192.168.254.243:8000/extract-aadhaar'),
+        Uri.parse('YOUR FASTAPI SERVER HOST IP AND PORT/extract-aadhaar'),
       );
 
       request.headers['Content-Type'] = 'multipart/form-data';
